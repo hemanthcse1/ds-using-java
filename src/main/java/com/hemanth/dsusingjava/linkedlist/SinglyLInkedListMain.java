@@ -1,9 +1,9 @@
 package com.hemanth.dsusingjava.linkedlist;
 
-public class LInkedListMain {
+public class SinglyLInkedListMain {
 
     public static void main(String[] args) {
-        LinkedList linkedList = new LinkedList();
+        SinglyLinkedList linkedList = new SinglyLinkedList();
         linkedList.append(1);
         linkedList.append(2);
         linkedList.append(3);

@@ -1,10 +1,10 @@
 package com.hemanth.dsusingjava.linkedlist;
 
-public class LinkedList {
+public class SinglyLinkedList {
 
     Node head;
 
-    public LinkedList() {
+    public SinglyLinkedList() {
         this.head = null;
     }
 
